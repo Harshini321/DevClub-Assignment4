@@ -1,11 +1,13 @@
 {
   "name": "wordle",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "npm i && node index.js"
-  },
-  "author": "",
-  "license": "ISC"
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "wordle",
+      "version": "1.0.0",
+      "license": "ISC"
+    }
+  }
 }
